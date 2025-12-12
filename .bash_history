@@ -24,3 +24,8 @@ git lfs install
 git lfs track "*.uasset"
 git lfs track "*.umap"
 git clone git@github.com:DelexPixel/SeniorCapstone.git
+git mv /c/ /c/Users/Bison Esports/Documents/Unreal Projects/MyProject
+git mv 
+git mv C:Users/Bison Esports C:/Users/Bison Esports/Documents/Unreal Projects/MyProject
+git config --global user.email "26richardsongabriel@bisonpride.us"
+git config --global user.name "Delexity"
